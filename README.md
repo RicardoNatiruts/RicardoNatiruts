@@ -17,6 +17,7 @@ Atualmente, estudo Ciência da Computação na UFT e estou começando minha jorn
 - CSS
 - JavaScript
 - C (principal)
+- Git
 - Em aprendizado constante 🚀
 
 ## Objetivo
