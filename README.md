@@ -1,25 +1,27 @@
+
 # Ricardo Rocha Alves
 
-🎓 Estudante de **Ciência da Computação** na **Universidade Federal do Tocantins (UFT)**  
-📚 Atualmente no **1º Período**  
-💻 Programador iniciante com foco na linguagem **C**  
-🧠 Alto conhecimento em **lógica de programação** e **matemática**
-<br>🏅 4X Medalhista da **OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas)**
+🎓 **Computer Science** student at the **Federal University of Tocantins (UFT)**
+📚 Currently in the **1st semester**
+💻 Beginner programmer focused on the **C language**
+🧠 Strong knowledge in **programming logic** and **mathematics** 
+<br>🏅 4X Medalist in the **OBMEP (Brazilian Math Olympiad of Public Schools)**
 
-## Sobre mim
+## About Me
 
-Sou um desenvolvedor iniciante apaixonado por resolver problemas usando lógica e programação.  
-Atualmente, estudo Ciência da Computação na UFT e estou começando minha jornada na área de tecnologia. Tenho uma base sólida em lógica matemática, sendo multimedalhista na Olimpiada Brasileira de Matemática das Escolas Públicas, com 4 medalhas, o que me ajuda a pensar de forma estruturada na hora de programar.
+I am a beginner developer passionate about solving problems using logic and programming.
+I'm currently studying Computer Science at UFT and starting my journey in the tech world. I have a strong foundation in mathematical logic, being a multi-medalist in the Brazilian Math Olympiad of Public Schools (OBMEP), with 4 medals — which helps me think in a structured way when programming.
 
-## Tecnologias
+## Technologies
 
-- HTML
-- CSS
-- JavaScript
-- C (principal)
-- Git
-- Em aprendizado constante 🚀
+* HTML
+* CSS
+* JavaScript
+* C (main language)
+* Git
+* Continuously learning 🚀
 
-## Objetivo
+## Goal
 
-Desenvolver habilidades sólidas em programação e construir projetos que coloquem em prática meus conhecimentos em lógica, matemática e tecnologia.
+To develop solid programming skills and build projects that apply my knowledge in logic, mathematics, and technology.
+
