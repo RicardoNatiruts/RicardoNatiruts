@@ -2,9 +2,9 @@
 # Ricardo Rocha Alves
 
 🎓 **Computer Science** student at the **Federal University of Tocantins (UFT)**
-📚 Currently in the **1st semester**
-💻 Beginner programmer focused on the **C language**
-🧠 Strong knowledge in **programming logic** and **mathematics** 
+<br>📚 Currently in the **1st semester**
+<br>💻 Beginner programmer focused on the **C language**
+<br>🧠 Strong knowledge in **programming logic** and **mathematics** 
 <br>🏅 4X Medalist in the **OBMEP (Brazilian Math Olympiad of Public Schools)**
 
 ## About Me
