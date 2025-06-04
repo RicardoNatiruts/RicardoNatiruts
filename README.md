@@ -13,9 +13,9 @@ Atualmente, estudo Ciência da Computação na UFT e estou começando minha jorn
 
 ## Tecnologias
 
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 - C (principal)
 - Em aprendizado constante 🚀
 
