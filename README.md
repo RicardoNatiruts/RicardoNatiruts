@@ -1,25 +1,29 @@
 
 # Ricardo Rocha Alves
 
-🎓 **Computer Science** student at the **Federal University of Tocantins (UFT)**
-<br>📚 Currently in the **1st semester**
-<br>💻 Beginner programmer focused on the **C language**
+🎓 **Computer Science** Student @ [**Federal University of Tocantins (UFT)**](https://ww2.uft.edu.br/) | 📊 **Data Analysis & Web Dev**
+
+<br>📚 Currently in the **3th semester**
+<br>💻 Developer expanding horizons from **C** to **Web Technologies** (JavaScript, Google Apps Script) and **Frontend**.
+<br>📊 **Data Analysis** enthusiast and **Public Sector Intern** (Accounting), using code to solve real-world problems.
 <br>🧠 Strong knowledge in **programming logic** and **mathematics** 
 <br>🏅 4X Medalist in the **OBMEP (Brazilian Math Olympiad of Public Schools)**
 
 ## About Me
 
-I am a beginner developer passionate about solving problems using logic and programming.
-I'm currently studying Computer Science at UFT and starting my journey in the tech world. I have a strong foundation in mathematical logic, being a multi-medalist in the Brazilian Math Olympiad of Public Schools (OBMEP), with 4 medals — which helps me think in a structured way when programming.
+I am a Computer Science student at UFT passionate about bridging complex logic with efficient software solutions. With a strong foundation in mathematical logic—earned as a 4-time medalist in the Brazilian Math Olympiad (OBMEP)—I bring a structured and analytical approach to every line of code.
+
+Currently, I am expanding from my roots in C and Java to modern Web Ecosystems (JavaScript, Google Apps Script, Frontend). As an intern in the Public Sector (Finance/Accounting), I apply Data Analysis and automation scripts to optimize real-world governmental workflows.
 
 ## Technologies
 
 * HTML
 * CSS
 * JavaScript
-* C (main language)
+* GAS (main language)
 * Git
-* Continuously learning 🚀
+* GitHub
+* Google Workspace (work environment)
 
 ## Goal
 
