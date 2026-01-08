@@ -1,7 +1,7 @@
 
 # Ricardo Rocha Alves
 
-🎓 **Computer Science** Student @ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_UFT.png/600px-Logo_UFT.png" height="30" alt="UFT Logo" /> | 📊 **Data Analysis & Web Dev**
+🎓 **Computer Science** Student @ **Federal University of Tocantins**| 📊 **Data Analysis & Web Dev**
 
 <br>📚 Currently in the **3th semester**
 <br>💻 Developer expanding horizons from **C** to **Web Technologies** (JavaScript, Google Apps Script) and **Frontend**.
