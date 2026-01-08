@@ -1,7 +1,7 @@
 
 # Ricardo Rocha Alves
 
-🎓 **Computer Science** Student @ **Federal University of Tocantins**| 📊 **Data Analysis & Web Dev**
+🎓 **Computer Science** Student @ **Federal University of Tocantins** | 📊 **Data Analysis & Web Dev**
 
 <br>📚 Currently in the **3th semester**
 <br>💻 Developer expanding horizons from **C** to **Web Technologies** (JavaScript, Google Apps Script) and **Frontend**.
@@ -24,6 +24,8 @@ Currently, I am expanding from my roots in C and Java to modern Web Ecosystems (
 * Git
 * GitHub
 * Google Workspace (work environment)
+* Java
+* C
 
 ## Goal
 
