@@ -3,7 +3,7 @@
 
 🎓 **Computer Science** Student @ **Federal University of Tocantins** | 📊 **Data Analysis & Web Dev**
 
-<br>📚 Currently in the **3th semester**
+<br>📚 Currently in the **4th semester**
 <br>💻 Developer expanding horizons from **C** to **Web Technologies** (JavaScript, Google Apps Script) and **Frontend**.
 <br>📊 **Data Analysis** enthusiast and **Public Sector Intern** (Accounting), using code to solve real-world problems.
 <br>🧠 Strong knowledge in **programming logic** and **mathematics** 
